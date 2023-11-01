@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/shrestha-ajay/node-hello-world.git"
+    "url" : "https://github.com/Mandava3/node-hello-world.git"
   },
   "scripts": {
     "start": "node app.js"
